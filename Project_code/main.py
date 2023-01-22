@@ -35,7 +35,7 @@ clock = pygame.time.Clock()
 B = Ball()
 
 
-
+# Score Initialization
 T1Score = 0
 T2Score = 0
 # ----------------------------------------
